@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: c9f6e131-56ee-c2ef-a2fe-f22c12424130
 resourcetype: Document
 title: bibliography.pdf
 uid: 7cc4936e-d5af-c72b-bfa1-1b2f771b97f2

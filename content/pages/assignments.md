@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: a4f5e823-f69a-3b07-3732-fd18c6450c97
 ---
@@ -23,6 +24,6 @@ Discuss and analyze two or three films of different types that discuss historica
 Student Work
 ------------
 
-Final Paper ([PDF]({{< baseurl >}}/resources/final_paper)) (Courtesy of Xuemin Chi. Used with permission.)
+Final Paper ({{< resource_link cd82f738-00ae-e77f-80cd-4cdb0266700d "PDF" >}}) (Courtesy of Xuemin Chi. Used with permission.)
 
-Chinese Cinema in the 1980s and 1990s ([PDF]({{< baseurl >}}/resources/chinesecinema_cheng)) (Courtesy of Emily Cheng. Used with permission.)
+Chinese Cinema in the 1980s and 1990s ({{< resource_link b9ad95ac-83ee-e47c-9343-34bc566315f0 "PDF" >}}) (Courtesy of Emily Cheng. Used with permission.)

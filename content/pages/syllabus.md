@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 8e3b967d-3c3b-8f1d-7f72-02cc22dd09ea
 ---
@@ -14,9 +18,9 @@ Syllabus Archive
 
 The following syllabi come from a variety of different terms. They illustrate the evolution of this course over time, and are intended to provide alternate views into the instruction of this course.
 
-> Spring 2009, Ian Chapman ([PDF]({{< baseurl >}}/resources/mit21h_560f04_sylls09))
+> Spring 2009, Ian Chapman ({{% resource_link 5868a8ff-6ae5-b342-9925-69c8334797c1 "PDF" %}})
 > 
-> Fall 2004, Peter Perdue ([PDF]({{< baseurl >}}/resources/mit21h_560f04_syllf04))
+> Fall 2004, Peter Perdue ({{% resource_link 4b4edc1e-6557-d075-6d6c-4d9e592cdbde "PDF" %}})
 
 Description
 -----------

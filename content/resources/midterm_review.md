@@ -2,6 +2,7 @@
 content_type: resource
 description: Exam Review
 file: /courses/21h-560-smashing-the-iron-rice-bowl-chinese-east-asia-fall-2004/e18da441b72e20d8d638eb7025f08569_midterm_review.pdf
+file_size: 14501
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

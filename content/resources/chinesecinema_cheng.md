@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21h-560-smashing-the-iron-rice-bowl-chinese-east-asia-fall-2004/b9ad95ac83eee47c934334bc566315f0_ChineseCinema_Cheng.pdf
+file: /courses/21h-560-smashing-the-iron-rice-bowl-chinese-east-asia-fall-2004/b9ad95ac83eee47c934334bc566315f0_ChineseCinema_Cheng.pdf
 file_size: 108700
 file_type: application/pdf
 learning_resource_types:

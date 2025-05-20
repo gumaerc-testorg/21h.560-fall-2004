@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student paper
-file: /ol-ocw-studio-app/courses/21h-560-smashing-the-iron-rice-bowl-chinese-east-asia-fall-2004/cd82f73800aee77f80cd4cdb0266700d_final_paper.pdf
+file: /courses/21h-560-smashing-the-iron-rice-bowl-chinese-east-asia-fall-2004/cd82f73800aee77f80cd4cdb0266700d_final_paper.pdf
 file_size: 114983
 file_type: application/pdf
 learning_resource_types:

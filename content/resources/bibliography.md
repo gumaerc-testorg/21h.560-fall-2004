@@ -7,7 +7,7 @@ description: 'BIBLIOGRAPHY
   2. Studies of Chinese Family Life
 
   3. China?s History on Film'
-file: /courses/21h-560-smashing-the-iron-rice-bowl-chinese-east-asia-fall-2004/7cc4936ed5afc72bbfa11b2f771b97f2_bibliography.pdf
+file: /ol-ocw-studio-app/courses/21h-560-smashing-the-iron-rice-bowl-chinese-east-asia-fall-2004/7cc4936ed5afc72bbfa11b2f771b97f2_bibliography.pdf
 file_size: 23642
 file_type: application/pdf
 learning_resource_types: []
